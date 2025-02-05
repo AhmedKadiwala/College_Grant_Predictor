@@ -1,4 +1,4 @@
-# UGC-University-Grant-Commission-
+# UGC(University Grant Commission)
 A Machine Learning model to identify colleges that deserve grant and that do not, where grant level 0 indicates no grant and grant level 6 indicates maximum grant . This means grant ranges from 0 to 6.
 There was no real time data available which showed if a college deserved grant or not. 
 So I made a synthetic data for colleges in which there are two sheets in one excel file ,one is City_Locality having three columns state, city, locality_category and other is Colleges having 14 columns 'Unnamed: 0', 'College_ID', 'College_Name', 'State', 'City', 'Locality_Category', 'Economic_Location', 'Locality_Score', 'Tuition_Fees', 'Facilities_Score', 'Academic_Excellence', 'Sports_Excellence', 'Number_of_Students', 'College_Type'.
