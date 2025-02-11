@@ -17,6 +17,6 @@ This project explores data analysis and visualization for various Indian states 
 - Scikit-Learn
 
 ## How to Use
-1. Install required dependencies:
+   Install required dependencies:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
